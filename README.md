@@ -6,7 +6,7 @@ Nội dung
 3. Greedy Best First Search (h = edge weights)
 
 Input.txt format (xem các file ví dụ):
-. Line 1: Start End
-. n dòng tiếp theo: Adjacency matrix (n x n)
+1. Line 1: Start End
+2. n dòng tiếp theo: Adjacency matrix (n x n)
 
 Tham số dòng lệnh để trực quan hóa các thuật toán tìm kiếm: python main.py <input_file> <algorithm_name> <time_delay>(optional) (đọc comments trong file main.py)
